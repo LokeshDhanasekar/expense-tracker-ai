@@ -1,0 +1,8 @@
+streamlit
+pandas
+plotly
+firebase-admin
+pytesseract
+pillow
+SpeechRecognition
+openai
